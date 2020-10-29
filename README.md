@@ -1,6 +1,7 @@
-Jetpack Joyride
+**Jetpack Joyride**
 <a href="https://www.raywenderlich.com/5458-how-to-make-a-game-like-jetpack-joyride-in-unity-2d-part-1" target="_blank">Details Tutorial</a>
 
+![](doc/cover1.gif)
 ### What we will learn
 1. Configuring the Game View
 2. Camera Setting
