@@ -1,5 +1,5 @@
 **Jetpack Joyride**
-<a href="https://www.raywenderlich.com/5458-how-to-make-a-game-like-jetpack-joyride-in-unity-2d-part-1" target="_blank">Details Tutorial</a>
+
 
 ![](doc/cover1.gif)
 ### What we will learn
@@ -526,3 +526,4 @@ Drag and drop ParallaxCamera to ParallaxScroll variable.
 6. Select ParallaxCamera, set Depth to **-2** must lower than main camera depth, main camera depth may be set in -1. Set main camera Clear Flags: Skybox to **Depth Only**
 
 End
+<a href="https://www.raywenderlich.com/5458-how-to-make-a-game-like-jetpack-joyride-in-unity-2d-part-1" target="_blank">...</a>
